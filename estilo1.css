@@ -1,0 +1,13 @@
+#menu {text-align:center; padding: 10px 0px 15px 0px; background-image:url(imagenes/degradado2.jpg)}
+#contenido {padding: 10px 10px 10px 10px; text-indent: 15px; text-align: justify}
+#menu a {color: #CCCCCC; display:block; text-decoration:none; background-color: #1C1C1C; margin: 1px}
+#menu a:link {} 
+#menu a:visited {} 
+#menu a:hover {color: #FFFFFF; background-color:#000000} 
+#menu a:active {color: #99FFFF}
+ul {margin: 0px; padding: 0px; list-style: none}
+h4 {color: #FFFFFF; font-weight: bold; font-size:20px}
+h1 {color: #FFFFFF; font-weight: bold; font-size:25px}
+h2 {color: #FFFFFF;  font-size:20px}
+h3 {color: #FFFFFF; font-weight: bold; font-size:20px}
+h6 {color: #FFFFFF; font-weight: bold; font-size:14px}

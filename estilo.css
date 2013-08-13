@@ -1,0 +1,36 @@
+body {background-image: url(textura-de-madera-oscura_1280x1024.jpg);  background-position: justify ; background-repeat: repeat; background-attachment: fixed}
+
+#fondo {background-color:black; width: 820px; margin: 4px auto; padding: 6px 0px; text-align: center}
+
+#global {margin: 0px auto; width: 800px}
+
+#cabecera {background-image:url(imagenes/degradado1.jpg); height: 120px; margin: 0px 0px 4px 0px}
+
+#logotipo {float:left}
+#banner {float:right}
+
+#navegacion { background-color:black}
+
+#menu {text-align:center; padding: 10px 0px 15px 0px; background-image:url(imagenes/degradado2.jpg)}
+#contenido {padding: 10px 10px 10px 10px; text-indent: 15px; text-align: justify}
+
+#copyright {font-size:0.7em; text-align:center; color:#FFFFFF}
+
+#navegacion a {color: #CCCCCC; display:block; text-decoration:none; margin: 1px; font-weight:bold}
+#navegacion a:link {}
+#navegacion a:hover {color: #FFFFFF; background-color:#000000}
+#navegacion a:active {color: #99FFFF}
+#navegacion a:visited {}
+
+#menu a {color: #CCCCCC; display:block; text-decoration:none; background-color: #1C1C1C; margin: 1px}
+#menu a:link {}
+#menu a:visited {}
+#menu a:hover {color: #FFFFFF; background-color:#000000}
+#menu a:active {color: #99FFFF}
+ul {margin: 0px; padding: 0px; list-style: none}
+h4 {color: #FFFFFF; font-weight: bold; font-size:20px ; center}
+h1 {color: #FFFFFF; }
+h2 {color: #FFFFFF; }
+h3 {color: #FFFFFF; }
+h5 {color: #FFFFFF; }
+h6 {color: #FFFFFF; }
